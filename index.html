@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Conpatible" content="is-edge" />
+    <link rel="stylesheet" href="style.css" />
+    <title>MEDIDORO: Meditation Pomodoro App</title>
+  </head>
+  <body>
+    <span> MEDIDORO </span>
+    <!-- <div class="app"> -->
+    <div class="vid-container">
+      <video autoplay muted loop>
+        <source src="coffee.mp4" />
+      </video>
+    </div>
+    <div class="button-container">
+      <div class="time-select">
+        <div class="fiveMin-button">
+          <button data-time="300">5 minutes</button>
+        </div>
+        <div class="twentyfiveMin-button">
+          <button data-time="1500">25 minutes</button>
+        </div>
+      </div>
+    </div>
+    <!-- <div class="player-container"> -->
+    <button alt="play-button" class="play-button">Play</button>
+    <audio class="song">
+      <source src="coffee.mp3" />
+    </audio>
+    <h3 class="time-display">25:00</h3>
+    <!-- </div> -->
+    <div class="button-container">
+      <div class="sound-picker">
+        <div class="rain-button">
+          <button data-sound="rain.mp3" data-video="rain.mp4">
+            Rain
+          </button>
+        </div>
+        <div class="beach-button">
+          <button data-sound="beach.mp3" data-video="beach.mp4">
+            Beach
+          </button>
+        </div>
+        <div class="coffee-button">
+          <button data-sound="coffee.mp3" data-video="coffee.mp4">
+            Coffee
+          </button>
+        </div>
+      </div>
+    </div>
+    <h1 class="info-guide">
+      How to use Medidoro:<br />
+      1. Press play to begin 1st, 25 minute productivity session.<br />
+      2. After productivity session click "5 minutes" and select
+      <br />your relaxing environment of choice. <br />3. At end of 5 minutes
+      select "25 minutes" and your<br />
+      productivity environment of choice.<br />4. Continue this cycle to
+      complete 4 successful<br />
+      productivity sessions. <br /><br />P.S. We reccomend selecting "coffee"
+      for productivity<br />
+      because it keeps you on the... <br />GRIND...pun intended.
+    </h1>
+    <script src="app.js"></script>
+  </body>
+</html>
