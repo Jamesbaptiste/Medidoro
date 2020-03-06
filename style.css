@@ -51,7 +51,7 @@ span {
   color: black;
 }
 
-.time-select button {
+.minutes button {
   position: relative;
   flex: 1;
   display: flex;
@@ -74,7 +74,7 @@ span {
   align-items: center;
 }
 
-.sound-picker button {
+.sounds button {
   position: relative;
   flex: 1;
   display: flex;
@@ -97,14 +97,11 @@ span {
 }
 
 .play-button:hover,
-.fiveMin-button:hover,
-.twentyfiveMin-button:hover,
 .rain-button:hover,
 .beach-button:hover,
 .coffee-button:hover,
-.sound-picker button:hover,
-.time-select button:hover,
-.sound-picker button:hover {
+.minutes button:hover,
+.sounds button:hover {
   color: tan;
 }
 
