@@ -45,12 +45,18 @@ This section should list any major frameworks that you built your project using.
 * HTML
 * CSS
 
+<!-- LIVE SITE -->
+## Live Site
+
+Project Link: [https://github.com/your_username/repo_name](https://secretnumberguessgame.netlify.app/)
+
+
 <!-- CONTACT -->
 ## Contact
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
 
 
 
