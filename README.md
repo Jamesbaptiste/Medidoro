@@ -1,4 +1,4 @@
-<h1 style= "text-align:center">Guess My Number</h1>
+<h1 style="text-align:center">Guess My Number</h1>
 
 <!-- PROJECT LOGO -->
 <br />
