@@ -7,7 +7,7 @@
     <img src="https://jamesbaptiste.github.io/Portfolio-site%20copy/images/guessGame.gif" alt="Logo" width="500" height="500">
   </a>
 
-<!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS 
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
@@ -25,6 +25,7 @@
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
+-->
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
