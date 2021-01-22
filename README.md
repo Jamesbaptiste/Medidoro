@@ -48,7 +48,7 @@ This section should list any major frameworks that you built your project using.
 <!-- LIVE SITE -->
 ## Live Site
 
-Project Link: [https://github.com/your_username/repo_name](https://secretnumberguessgame.netlify.app/)
+Project Link: [https://secretnumberguessgame.netlify.app/](https://secretnumberguessgame.netlify.app/)
 
 
 <!-- CONTACT -->
