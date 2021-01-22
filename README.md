@@ -54,11 +54,12 @@ Project Link: [https://secretnumberguessgame.netlify.app/](https://secretnumberg
 <!-- CONTACT -->
 ## Contact
 
-James Baptiste - [@your_twitter](https://twitter.com/your_username) - Jamesbaptiste@yahoo.com
+James Baptiste - Jamesbaptiste@yahoo.com
 
-https://linkedin.com/in/james-baptiste-7005097b
+[Portfolio](https://jamesbaptiste.github.io/)
 
-https://jamesbaptiste.github.io/
+[Linkedin](https://linkedin.com/in/james-baptiste-7005097b)
+
 
 
 
